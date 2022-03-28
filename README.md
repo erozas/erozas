@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Exequiel and I'm an argentinean ruby developer currently living in Santa Cruz, Bolivia.
+
+I'm currently working on PetServi, a pet-supply startup that operates in Santa Cruz.
+
 <!--
 **erozas/erozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
